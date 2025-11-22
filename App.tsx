@@ -71,7 +71,7 @@ const App: React.FC = () => {
           <div className="w-10 h-10 rounded-full bg-neu-base shadow-[4px_4px_8px_#a3b1c6,-4px_-4px_8px_#ffffff] flex items-center justify-center text-neu-accent">
             <BookOpen size={20} />
           </div>
-          <h1 className="text-2xl font-bold tracking-tight text-neu-text">NeuPoetry</h1>
+          <h1 className="text-2xl font-bold tracking-tight text-neu-text">Poetry For You</h1>
         </div>
         
         <NeuButton 
