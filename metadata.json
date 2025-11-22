@@ -1,0 +1,5 @@
+{
+  "name": "NeuPoetry",
+  "description": "A modern, neumorphic poetry discovery application powered by PoetryDB and Gemini AI.",
+  "requestFramePermissions": []
+}
